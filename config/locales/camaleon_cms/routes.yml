@@ -1,0 +1,47 @@
+es:
+  routes:
+    group: grupo
+    category: categoria
+    tag: etiqueta
+    search: buscar
+    profile: perfil
+
+pt:
+  routes:
+    group: grupo
+    category: categoria
+    tag: etiqueta
+    search: buscar
+    profile: perfil
+
+pt-BR:
+  routes:
+    group: grupo
+    category: categoria
+    tag: tag
+    search: buscar
+    profile: perfil
+
+fr:
+  routes:
+    group: groupe
+    category: categorie
+    tag: balise
+    search: recherche
+    profile: profil
+
+it:
+  routes:
+    group: gruppo
+    category: categoria
+    tag: etichetta
+    search: ricerca
+    profile: profilo
+
+ru:
+  routes:
+    group: group
+    category: category
+    tag: tag
+    search: search
+    profile: profile

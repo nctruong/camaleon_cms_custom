@@ -1,0 +1,91 @@
+# encoding: utf-8
+en:
+  languages:
+    es: "Spanish"
+    en: "English"
+    fr: "French"
+    zh: "Chinese"
+    de: "Deutsch"
+    pt: "Português (Portugal)"
+    pt-BR: "Português (Brazil)"
+    it: "Italian"
+    ru: "Russian"
+    nl: "Dutch"
+
+es:
+  languages:
+    es: "Español"
+    en: "Inglés"
+    fr: "Francés"
+    zh: "Chino"
+    de: "Alemán"
+    pt: "Portugues (Portugal)"
+    pt-BR: "Portugues (Brasil)"
+    it: "Italiano"
+    ru: "Russian"
+    nl: "Holandés"
+
+it:
+  languages:
+    es: "Spagnolo"
+    en: "Inglese"
+    fr: "Francese"
+    zh: "Cinese"
+    de: "Tedesco"
+    pt: "Portoghese (Portogallo)"
+    pt-BR: "Portoghese (Brasile)"
+    it: "Italiano"
+    ru: "Russian"
+    nl: "Olandese"
+
+ru:
+  languages:
+    es: "Испанский"
+    en: "Английский"
+    fr: "Французский"
+    zh: "Китайский"
+    de: "Немецкий"
+    pt: "Португальский (Португалия)"
+    pt-BR: "Португальский (Бразилия)"
+    it: "Итальянский"
+    ru: "Русский"
+    nl: "Голландский"
+
+nl:
+  languages:
+    es: "Spaans"
+    en: "Engels"
+    fr: "Frans"
+    zh: "Chinees"
+    de: "Duits"
+    pt: "Portugees (Portugal)"
+    pt-BR: "Portugees (Brazilië)"
+    it: "Italiaans"
+    ru: "Russisch"
+    nl: "Nederlands"
+
+pt:
+  languages:
+    es: "Espanhol"
+    en: "Inglês"
+    fr: "Francês"
+    zh: "Chinês"
+    de: "Alemão"
+    pt: "Português (Portugal)"
+    pt-BR: "Português (Brasil)"
+    it: "Italiano"
+    ru: "Russo"
+    nl: "Holandês"
+
+pt-BR:
+  languages:
+    es: "Espanhol"
+    en: "Inglês"
+    fr: "Francês"
+    zh: "Chinês"
+    de: "Alemão"
+    pt: "Português (Portugal)"
+    pt-BR: "Português (Brasil)"
+    it: "Italiano"
+    ru: "Russo"
+    nl: "Holandês"

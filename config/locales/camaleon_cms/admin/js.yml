@@ -1,0 +1,209 @@
+en:
+  camaleon_cms:
+    admin:
+      js:
+        msg:
+          approved: 'Approved'
+          draft: 'Saved draft success'
+          updated_success: 'Updated Successfully'
+          edit_menu: 'Place each item in the order you prefer. Click on the icon of a pencil to edit the item and click the icon in the form of x to delete the item.'
+          delete_item: 'Really want to delete this item?'
+          remove_items_submenu: 'Really remove this item and its sub menu items?'
+          you_must_upload_image: 'You must upload an image'
+          you_must_upload_video: 'You must upload an video'
+          no_response_fields: 'No response fields '
+          you_must_upload_json_file: 'You must upload an json file'
+          no_templates_defined: 'No templates defined'
+          avatar_updated: 'Updated Avatar'
+          form_error: 'Form Error'
+          option_title: 'Option Title'
+          permalink: 'Permalink'
+          recover: 'Recovering...'
+          type_contents: 'Type Contents'
+          confirm_del: "Are you sure to delete this item?"
+          media_title: 'Media Uploader'
+
+        button:
+          edit: "Edit"
+          accept: "Accept"
+          cancel: "Cancel"
+          delete: "Delete"
+          clone: "Clone"
+          add_tag: 'Add Tag'
+          close: 'Close'
+          settings: 'Settings'
+          save: "Save"
+          submit: "Submit"
+          name: "Name"
+          size: "Size"
+          insert: "Insert"
+          url: "URL"
+          root: "root"
+
+pt-BR:
+  camaleon_cms:
+    admin:
+      js:
+        msg:
+          approved: 'Aprovado'
+          draft: 'Rascunho salvo com sucesso'
+          updated_success: 'Atualizado com sucesso'
+          edit_menu: 'Posicione cada item na ordem de sua preferência. Clique no ícone do lápis para editar o item e clique no formato de X para deletar o item.'
+          delete_item: 'Realmente deseja deletar esse item?'
+          remove_items_submenu: 'Realmente deseja remover esse item e seus sub menu items?'
+          you_must_upload_image: 'Você deve fazer o upload de uma image'
+          you_must_upload_video: 'Você deve fazer o upload de um vídeo'
+          no_response_fields: 'Não há campos de resposta '
+          you_must_upload_json_file: 'Você deve fazer o upload de um JSON'
+          no_templates_defined: 'Não há templates definidos'
+          avatar_updated: 'Avatar Atualizado'
+          form_error: 'Erro no Form'
+          option_title: 'Título de Opção'
+          permalink: 'Link Permanente'
+          recover: 'Recuperando...'
+          type_contents: 'Conteúdo de Tipo'
+          confirm_del: "Tem certeza que deseja deletar esse item?"
+          media_title: 'Uploader de Mídia'
+
+        button:
+          edit: "Editar"
+          accept: "Aceitar"
+          cancel: "Cancelar"
+          delete: "Deletar"
+          clone: "Clonar"
+          add_tag: 'Adicionar Tag'
+          close: 'Fechar'
+          settings: 'Configurações'
+          save: "Salvar"
+          submit: "Submeter"
+          name: "Nome"
+          size: "Tamanho"
+          insert: "Inserir"
+          url: "URL"
+          root: "raiz"
+es:
+  camaleon_cms:
+    admin:
+      js:
+        msg:
+          approved: 'Aprovado'
+          draft: 'Borrador guardado  con éxito'
+          updated_success: 'Actualizado correctamente'
+          edit_menu: 'Coloque cada elemento en el orden que prefiera. Haga clic en el icono de un lápiz para editar el elemento y haga clic en el icono en forma de x para eliminar el elemento.'
+          delete_item: 'Realmente quiere eliminar este elemento?'
+          remove_items_submenu: 'Realmente eliminar este elemento y sus elementos de menú secundario?'
+          you_must_upload_image: 'Usted debe cargar una imagen'
+          you_must_upload_video: 'Usted debe subir un vídeo'
+          no_response_fields: 'No hay campos de respuesta '
+          you_must_upload_json_file: 'Usted debe cargar un archivo json'
+          no_templates_defined: 'No hay plantillas definidas'
+          avatar_updated: 'Fotografía Actualizada'
+          form_error: 'Error Formulario'
+          option_title: 'Opción Título'
+          permalink: 'Enlace Permanente'
+          pending: 'Pendiente'
+          preview: 'Vista Previa'
+          spam: 'No deseado'
+          view_page: 'Ver Página'
+          view_draft: 'Ver Borrador'
+          recover: 'Recuperando...'
+          processing: 'Procesando...'
+          type_contents: 'Tipo de Contenidos'
+          upload_image: 'Subir Imagen'
+          confirm_del: "Esta seguro de eliminar este item?"
+        button:
+          edit: "Edit"
+          accept: "Accept"
+          cancel: "Cancel"
+          delete: "Delete"
+          clone: "Duplicar"
+          close: 'Cerrar'
+          add_tag: 'Agregar Etiqueta'
+          settings: 'Configuración'
+          save: "Guardar"
+          submit: "Ingresar"
+
+it:
+  camaleon_cms:
+    admin:
+      js:
+        msg:
+          approved: 'Approvato'
+          draft: 'Bozza salvata'
+          label_required: "ergoineroinregfoin"
+          placeholder_required: "rofmfvopfrmpvo"
+          updated_success: 'Aggiornato'
+          edit_menu: "Posiziona ogni elemento nell'ordine preferito. Clicca sull'icona della matita per modificarlo e sulla x per cancellarlo"
+          delete_item: 'Vuoi davvero eliminare questo oggetto?'
+          remove_items_submenu: 'Vuoi rimuovere questo oggetto e i suoi sotto menù?'
+          you_must_upload_image: "Devi caricare un'immagine"
+          you_must_upload_video: 'Devi caricare un video'
+          no_response_fields: 'Nessuna replica'
+          you_must_upload_json_file: 'Devi caricare un file JSON'
+          no_templates_defined: 'Nessun template definito'
+          avatar_updated: 'Aggiorna Avatar'
+          form_error: 'Errore nel form'
+          option_title: 'Opzioni titolo'
+          permalink: 'Permalink'
+          pending: 'In attesa'
+          preview: 'Anteprima'
+          spam: 'Spam'
+          view_page: 'Vedi pagina'
+          view_draft: 'Vedi Bozza'
+          recover: 'Ripristino...'
+          processing: 'Caricamento...'
+          type_contents: 'Type Contents'
+          upload_image: 'Carica Immagine'
+          confirm_del: "Sei sicuro di voler eliminare l'articolo?"
+        button:
+          edit: "Edit"
+          accept: "Accept"
+          cancel: "Cancel"
+          delete: "Delete"
+          clone: "Duplicare"
+          add_tag: 'Aggiungi Tag'
+          close: 'Chiudi'
+          settings: 'Impostazioni'
+          save: "Salvare"
+          submit: "Presentare"
+nl:
+  camaleon_cms:
+    admin:
+      js:
+        msg:
+          approved: 'Goedgekeurd'
+          draft: 'Concept succesvol opgeslagen'
+          updated_success: 'Succesvol bijgewerkt'
+          edit_menu: 'Plaatst elk item in de gewenste volgorde. Klik op het icoontje van een potlood om het item te bewerken en klik op het icoon in de vorm van x om het item te verwijderen.'
+          delete_item: 'Wil je dit item echt verwijderen?'
+          remove_items_submenu: 'Wilt je dit item en alle submenu-items echt verwijden?'
+          you_must_upload_image: 'Je moet een afbeelding te uploaden'
+          you_must_upload_video: 'Je moet een video te uploaden'
+          no_response_fields: 'Geen reactie velden '
+          you_must_upload_json_file: 'Je moet een JSON bestand uploaden'
+          no_templates_defined: 'Geen sjablonen ingesteld'
+          avatar_updated: 'Avatar bijgewerkt'
+          form_error: 'Formulier fout'
+          option_title: 'Optie titel'
+          permalink: 'Permalink'
+          recover: 'Herstelts...'
+          type_contents: 'Type Inhoud'
+          confirm_del: "Wil je dit item echt verwijderen?"
+          media_title: 'Media Uploader'
+
+        button:
+          edit: "Bewerk"
+          accept: "Accepteer"
+          cancel: "Annuleer"
+          delete: "Verwijder"
+          clone: "Kopiëren"
+          add_tag: 'Tag toevoegen'
+          close: 'Sluiten'
+          settings: 'Instellingen'
+          save: "Opslaan"
+          submit: "Verstuur"
+          name: "Naam"
+          size: "Grootte"
+          insert: "Invoegen"
+          url: "URL"
+          root: "root"
