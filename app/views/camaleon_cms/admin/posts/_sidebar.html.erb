@@ -81,7 +81,7 @@
                     <label class="control-label"><%= f.check_box :is_feature %> &nbsp; <%= t('camaleon_cms.admin.post.is_featured', default: 'Is Featured?')%></label>
                 </div>
             <% end %>
-            <%= raw @post_form_extra_settings.join("") if @post_form_extra_settings.present? %>
+            <%= raw @post_form_extra_settings.uniq.join("") if @post_form_extra_settings.present? %>
         </div>
     </div>
 
